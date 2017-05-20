@@ -1,0 +1,8 @@
+@import 'variables';
+@import 'fs_settings';
+@import '../../node_modules/foundation-sites/scss/foundation';
+@include foundation-global-styles;
+@include foundation-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-visibility-classes;
